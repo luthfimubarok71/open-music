@@ -1,0 +1,20 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "no-undef": "off",
+    "no-unused-vars": "off",
+    "no-underscore-dangle": "off",
+    "linebreak-style": "off",
+    "eol-last": "off",
+    "newline-per-chained-call": "off",
+    "no-console": "off",
+    "camelcase": "off",
+    "object-curly-newline": "off",
+    "prefer-const": "off",
+    "import/no-extraneous-dependencies": "off"
+  },
+  "env":{
+    "browser": true,
+    "node": true
+  }
+}
